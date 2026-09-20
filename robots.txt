@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Each demonstration page declares noindex, nofollow.
